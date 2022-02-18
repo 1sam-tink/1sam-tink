@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1sam-tink
 - 👀 I’m interested in learning the various programming languages
-- 🌱 I’m currently learning python, html and data science
+- 🌱 I’m currently learning python, html,css,javaScript and data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... samueltinkorang10@gmail.com
 
